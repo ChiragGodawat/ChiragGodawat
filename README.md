@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Chirag Godawat - @ChiragGodawat
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Sports.
-- 🌱 I’m currently learning MLFLow, Airflow, ML Techniques
+- 🎓 Graduation - SV NIT, Surat (Btech in ECE)
+- 👨‍💼 Working as a Data Engineer at Vistaprint
+- 👨‍🏫 Mentor at DeepLearning.Ai (Volunteer)
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Mentoring, Sports
+- 🌱 I’m currently learning MLFLow, Airflow, Advance ML Techniques
 - 💞️ I’m looking to collaborate on solving real world problems, building applications and cool stuffs using ML
 - 📫 How to reach me - c.godawat@gmail.com
 
